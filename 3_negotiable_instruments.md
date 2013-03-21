@@ -44,6 +44,7 @@ The instrument must be:
 
 1. In writing
 2. Signed
+> [A signature is] any symbol executed or adopted by a party with present intention to authenticate a writing.
 3. An **unconditional** promise to pay/order to pay. (Free from _express_ conditions on payment)
 
 
