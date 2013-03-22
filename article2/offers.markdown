@@ -19,4 +19,4 @@ The offer will be held open for:
 2. A reasonable time. 
 3. Not exceeding 3 months.  Offers purporting to stay open for more than 3 months will only be held open for 3 months.
 
-[definitions](definitions.markdown)
+[definitions]: definitions.markdown
