@@ -25,9 +25,19 @@ The UCC does not apply to *service* contracts.  In mixed cases, there are two te
     - This has changed under the Amended UCC. Both merchants and non-merchants have the same duty.
 - **Record**. Information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form. [§1-201][1-201]
 
+## Shipment Terms
+See [§2-319][2-319].
+
+These terms are somewhat confusing and important to understand.
+
+- **Freight on Board. (F.O.B)**
+- **Free Alongside. (F.A.S)**
+- **(C.O.D)**
+
 [1-201]: http://www.law.cornell.edu/ucc/1/article1.htm#s1-201
 [1-203]: http://www.law.cornell.edu/ucc/1/article1.htm#s1-203
 [2-103]: http://www.law.cornell.edu/ucc/2/article2.htm#s2-103
 [2-104]: http://www.law.cornell.edu/ucc/2/article2.htm#s2-104
 [2-105]: http://www.law.cornell.edu/ucc/2/article2.htm#s2-105
 [2-107]: http://www.law.cornell.edu/ucc/2/article2.htm#s2-107
+[2-319]: http://www.law.cornell.edu/ucc/2/article2.htm#s2-319
